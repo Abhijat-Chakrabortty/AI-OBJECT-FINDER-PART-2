@@ -1,0 +1,50 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    height: 50px;
+    padding-top: 0%;
+}
+#status, #number_of_objects{
+    font-size: 18px;
+    margin-bottom: -20px;
+}
+
+#start{
+    font-size: 18px;
+    margin-bottom: -15px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    line-height: 3;
+    text-align: center;
+ 
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 90px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+#object_heading{
+    color: aliceblue;
+    font-size: 14px;
+    margin-bottom: -10px;
+}
+#object_name{
+        width: 500px;
+        font-size: 16px ;
+        margin-top: 0pc;
+}
